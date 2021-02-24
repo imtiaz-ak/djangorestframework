@@ -1,0 +1,8 @@
+backend -> config file
+htmlcov -> coverage report
+
+Brief descriptions of the apps:
+
+1. users - handles different user types and their authentication
+2. payments - reusable app for handling the payments
+3. core - models, controllers etc. unique to this project
